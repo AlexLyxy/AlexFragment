@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlexFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_alex_one_fragment">Hello Alex One fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_alex_two_fragment">Hello Alex Two fragment</string>
+</resources>
